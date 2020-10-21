@@ -1,0 +1,9 @@
+{
+    "kiloampere":1000,
+    "abampere":10,
+    "ampere":1,
+    "milliampere":0.001,
+    "microampere":0.000001,
+    "nanoampere":0.000000001
+
+}
