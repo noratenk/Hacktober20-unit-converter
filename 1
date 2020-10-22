@@ -1,0 +1,308 @@
+[33mcommit d21a8defd0a818b0047727fa6138c0ddeb48e26e[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: jeff1216 <jeff.fung07@gmail.com>
+Date:   Thu Oct 22 01:36:32 2020 -0400
+
+    added electric potential units
+
+[33mcommit 547811f35f317297d194bec99291a0267098a070[m
+Author: jeff1216 <jeff.fung07@gmail.com>
+Date:   Thu Oct 22 01:32:35 2020 -0400
+
+    added electric potiental units
+
+[33mcommit 54ba7571ae1bc8159577f5d92f9e35df286eaf9a[m
+Merge: 468a801 cb761f2
+Author: norabalogh <47179458+norabalogh@users.noreply.github.com>
+Date:   Wed Oct 21 08:53:04 2020 +0200
+
+    Merge pull request #18 from bg-s-25/data-units
+    
+    added data units
+
+[33mcommit 468a80158d3b8de05ed05d52f96c8cf18c930a7b[m
+Merge: b436073 f9d5748
+Author: norabalogh <47179458+norabalogh@users.noreply.github.com>
+Date:   Wed Oct 21 08:43:45 2020 +0200
+
+    Merge pull request #15 from sadboyzvone/main
+    
+    Add length units
+
+[33mcommit b436073cf35c99434b7d4260ef43d94ac79c1620[m
+Merge: 0c45345 494505a
+Author: norabalogh <47179458+norabalogh@users.noreply.github.com>
+Date:   Wed Oct 21 08:30:15 2020 +0200
+
+    Merge pull request #10 from sebestenydaniel/main
+    
+    mass_density.json added
+
+[33mcommit 0c45345ec029350cd21d59e89f2488e5a284329f[m
+Merge: e7665f0 0519df0
+Author: norabalogh <47179458+norabalogh@users.noreply.github.com>
+Date:   Wed Oct 21 08:28:39 2020 +0200
+
+    Merge pull request #9 from bocsardigergely/main
+    
+    magnetic field strength
+
+[33mcommit e7665f0ccfb364766bdb655e432a8fee76e494a2[m
+Merge: 7e0b49a e350558
+Author: norabalogh <47179458+norabalogh@users.noreply.github.com>
+Date:   Wed Oct 21 08:26:49 2020 +0200
+
+    Merge pull request #5 from tubali12345/main
+    
+    electric current.json added
+
+[33mcommit cb761f2d8709591cffb8081c2d0ff2f227209f15[m
+Author: bg-s-25 <hgeorgio@stevens.edu>
+Date:   Tue Oct 20 18:30:29 2020 -0400
+
+    added data units
+
+[33mcommit 494505a5da93f86ad0f7a8d22786aca04d404891[m
+Author: Dániel <sebestenydaniel@gmail.com>
+Date:   Tue Oct 20 21:55:28 2020 +0000
+
+    mass density filename corrected
+
+[33mcommit f9d57481c47c533e6fa7a2f6fc5bf4eab5e841cc[m
+Author: Zvonimir Rudinski <zvonimir@studiopresent.com>
+Date:   Tue Oct 20 13:41:22 2020 +0200
+
+    Add length
+
+[33mcommit 0519df08bc20672535332344d0279b7fab0bd584[m
+Author: bocsardigergely <bocsardi.gergely@gmail.com>
+Date:   Sat Oct 17 21:49:18 2020 +0200
+
+    fixed oersted measures
+
+[33mcommit d631c14a50293c8a07b1aad36a71510bd6e867f2[m
+Author: bocsardigergely <bocsardi.gergely@gmail.com>
+Date:   Sat Oct 17 21:35:34 2020 +0200
+
+    added oerstad
+
+[33mcommit 7e0b49a07bcb6071dc15948b844947fd4620d835[m
+Merge: 26a973d 51474df
+Author: norabalogh <47179458+norabalogh@users.noreply.github.com>
+Date:   Sat Oct 17 12:44:21 2020 +0200
+
+    Merge pull request #7 from emmermarcell/main
+    
+    wave_number.json added
+
+[33mcommit 26a973dc830187b520b38162f357792fd11bb4c4[m
+Merge: 60f6a7b 7130806
+Author: norabalogh <47179458+norabalogh@users.noreply.github.com>
+Date:   Sat Oct 17 12:43:29 2020 +0200
+
+    Merge pull request #4 from tothmiklos99/main
+    
+    thermodynamic temperature.json added
+
+[33mcommit 51474df2f404e2b574927dd2bfea8bc1e98846d6[m
+Author: marcell <emmermarci@gmail.com>
+Date:   Sat Oct 17 09:57:04 2020 +0000
+
+    wavenumber.json added
+
+[33mcommit 7130806ec3cb6372ea0c8e44d616f59f06e4a6eb[m
+Author: unknown <tothmiklos99@gmail.com>
+Date:   Sat Oct 17 11:55:12 2020 +0200
+
+    removed degree character
+
+[33mcommit 60f6a7b63619b89796a862bb2e5f59b63c182b49[m
+Merge: 62bf053 2dff3d2
+Author: norabalogh <47179458+norabalogh@users.noreply.github.com>
+Date:   Sat Oct 17 11:33:21 2020 +0200
+
+    Merge pull request #2 from chardon1/patch-1
+    
+    Update mass.json
+
+[33mcommit 62bf0531441846804d8962a7b190f324437a9f0f[m
+Merge: 3e8dd70 482e16d
+Author: norabalogh <47179458+norabalogh@users.noreply.github.com>
+Date:   Sat Oct 17 11:27:00 2020 +0200
+
+    Merge pull request #3 from mezsimarci/main
+    
+    area.json hozzá vagyon adva
+
+[33mcommit 3e8dd701e18db8b78031b5efdc7b0bb583cfce71[m
+Merge: a21e59b 1dd170d
+Author: norabalogh <47179458+norabalogh@users.noreply.github.com>
+Date:   Sat Oct 17 11:19:34 2020 +0200
+
+    Merge pull request #6 from realertelmiseg/main
+    
+    acceleration.json added
+
+[33mcommit a21e59b6c1f48aff0eb0332d88eb41c30a8fe910[m
+Author: Nora <bnori97@gmail.com>
+Date:   Sat Oct 17 11:17:01 2020 +0200
+
+    readme updated
+
+[33mcommit 40525b6635a9fffaf3023ece926b4113d6e71ce3[m
+Author: Nora <bnori97@gmail.com>
+Date:   Sat Oct 17 11:15:50 2020 +0200
+
+    current density corrected
+
+[33mcommit e6af14eb1f9c50ebf1094e17f7845fdc015113c5[m
+Merge: e652a01 bc518ef
+Author: norabalogh <47179458+norabalogh@users.noreply.github.com>
+Date:   Sat Oct 17 10:47:30 2020 +0200
+
+    Merge pull request #12 from bodrogberto/main
+    
+    current_density.json added to units
+
+[33mcommit e652a014b7020f7afc616689f8d02026c2e876ac[m
+Merge: def329c da46db0
+Author: norabalogh <47179458+norabalogh@users.noreply.github.com>
+Date:   Sat Oct 17 10:44:35 2020 +0200
+
+    Merge pull request #13 from akshatcx/time
+    
+    Add time.json
+
+[33mcommit def329cb3bdeb228f4378b862a71c1061cf5a83d[m
+Author: Nora <bnori97@gmail.com>
+Date:   Sat Oct 17 10:39:15 2020 +0200
+
+    contribution detalied
+
+[33mcommit da46db044c295072a9bf067f0e18a23b371a38d2[m
+Author: Akshat Chhajer <achhajer@aicrowd.com>
+Date:   Thu Oct 15 00:28:43 2020 +0530
+
+    Add time.json
+
+[33mcommit bc518ef23df55ac427e73a44a3c901b0cf1828ac[m
+Author: bodrogberto <bodrogberto@gmail.com>
+Date:   Wed Oct 14 18:21:55 2020 +0000
+
+    current_density.json added
+
+[33mcommit 69bd417942eb469b7f621e1ffbc4a7b588a09e64[m
+Author: bocsardigergely <bocsardi.gergely@gmail.com>
+Date:   Wed Oct 14 20:15:56 2020 +0200
+
+    added magnetic field strength
+
+[33mcommit 3e2a004f7417cbc6da8ea09241e4575c142d1b67[m
+Author: unknown <tothmiklos99@gmail.com>
+Date:   Wed Oct 14 20:14:21 2020 +0200
+
+    thermodynamic temperature.json added
+
+[33mcommit e35055822ce61849a45bcb75696d0a765c729b6c[m
+Author: tubali12345 <tubali12345@gmail.com>
+Date:   Wed Oct 14 18:13:07 2020 +0000
+
+    electric current.json added
+
+[33mcommit f38c573c61c1eb5d00c567ec1eed438027ca322e[m
+Author: bodrogberto <bodrogberto@gmail.com>
+Date:   Wed Oct 14 18:12:52 2020 +0000
+
+    current_density.json added
+
+[33mcommit 1dd170d1f0af3694b7559b8ba00e582c1998f98a[m
+Author: realertelmiseg <gammemode@gmail.com>
+Date:   Wed Oct 14 18:12:50 2020 +0000
+
+    acceleration.json added
+
+[33mcommit 482e16d6aae0f172e011978d762c6022ba94143d[m
+Author: mezsimarci <mezsimarci@gmail.com>
+Date:   Wed Oct 14 18:12:49 2020 +0000
+
+    area.json hozzá vagyon adódva
+
+[33mcommit fb6a7732e1b8bca27925ce05d15ce93a3f59459b[m
+Author: marcell <emmermarci@gmail.com>
+Date:   Wed Oct 14 18:12:48 2020 +0000
+
+    wave_number.json added
+
+[33mcommit 71cb39341640c916830783f212516734b3543144[m
+Author: Dániel <sebestenydaniel@gmail.com>
+Date:   Wed Oct 14 18:12:46 2020 +0000
+
+    mass_density.json added
+
+[33mcommit 3f147afb7bc53d172d2dbe207471e6005c9fe859[m
+Author: Nóra <bnori97@gmail.com>
+Date:   Wed Oct 14 18:12:45 2020 +0000
+
+    inductance.json added
+
+[33mcommit 4dead85c82d96b9600800950b76ec5fbd8e653b8[m
+Author: bocsardigergely <bocsardi.gergely@gmail.com>
+Date:   Wed Oct 14 20:07:57 2020 +0200
+
+    added magnetic field strength
+
+[33mcommit 2dff3d2d007c5a5daa7f16cb207450963aa7b906[m
+Author: chardon1 <32737664+chardon1@users.noreply.github.com>
+Date:   Tue Oct 13 16:56:03 2020 +0200
+
+    Update mass.json
+    
+    add decigram and centigram
+
+[33mcommit 1692666aaa893cbd1620f55402b662b4b897d9f9[m
+Merge: 3e75b61 b8585e8
+Author: norabalogh <47179458+norabalogh@users.noreply.github.com>
+Date:   Tue Oct 13 16:29:13 2020 +0200
+
+    Merge pull request #1 from qdtroemner/patch-1
+    
+    Added mg to masses, mm and km to lengths
+
+[33mcommit b8585e8f50f761ab8eb9f25e33bf81a151c47508[m
+Author: qdtroemner <31808836+qdtroemner@users.noreply.github.com>
+Date:   Mon Oct 12 20:46:15 2020 -0400
+
+    Add km and mm
+
+[33mcommit 00a7cf1b140bc32fffd84708f8537253982cf881[m
+Author: qdtroemner <31808836+qdtroemner@users.noreply.github.com>
+Date:   Mon Oct 12 20:44:45 2020 -0400
+
+    Fix milligram error
+    
+    Changed from 0.01 to 0.001
+
+[33mcommit 3cfd9a35ba93eda18dba357dde60b746ed5471f8[m
+Author: qdtroemner <31808836+qdtroemner@users.noreply.github.com>
+Date:   Mon Oct 12 20:37:37 2020 -0400
+
+    Add Milligram conversions
+    
+    Added 'mg' value to dictionary
+
+[33mcommit 3e75b6102557648eb38090bfb04a4d0eae719079[m
+Author: norabalogh <47179458+norabalogh@users.noreply.github.com>
+Date:   Sun Oct 11 21:14:31 2020 +0200
+
+    readme updated
+
+[33mcommit c9ad63a0245e07c3f54a73ea1aee5353025aae48[m
+Author: Nora <bnori97@gmail.com>
+Date:   Sun Oct 11 20:57:51 2020 +0200
+
+    code added
+
+[33mcommit 84eb2a627e629f419426488aa93055ef5071784c[m
+Author: norabalogh <47179458+norabalogh@users.noreply.github.com>
+Date:   Sun Oct 11 20:53:05 2020 +0200
+
+    Initial commit
