@@ -1,8 +1,7 @@
 {
-	"megavolts": 1000000,
-    "kilovolts":1000,
-    "volts":1,
-    "millivolts":0.001,
-    "microvolts":0.000001,
-
+    "megavolts": 1000000,
+    "kilovolts": 1000,
+    "volts": 1,
+    "millivolts": 0.001,
+    "microvolts": 0.000001
 }
