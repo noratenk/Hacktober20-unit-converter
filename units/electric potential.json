@@ -3,6 +3,5 @@
     "kilovolts":1000,
     "volts":1,
     "millivolts":0.001,
-    "microvolts":0.000001,
-
+    "microvolts":0.000001
 }
