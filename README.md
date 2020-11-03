@@ -11,5 +11,7 @@ Happy coding! :)
 ---
 ### Try this!
 
+* Now the project is deployed on streamlit: https://share.streamlit.io/norabalogh/hacktober20-unit-converter/main/src/streamlit.py :rocket: :rocket: :rocket:
 * in cmd e.g: python src\converter.py 1 "km" "m"
 * via streamlit in cmd: streamlit run src\streamlit.py
+
